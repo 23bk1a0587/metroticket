@@ -1,6 +1,7 @@
-qrcode
+qrcode[pil]
 gtts
 streamlit
 uuid
 pillow
+
 
