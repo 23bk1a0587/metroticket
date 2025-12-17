@@ -2,4 +2,5 @@ qrcode
 gtts
 streamlit
 uuid
+pillow
 
